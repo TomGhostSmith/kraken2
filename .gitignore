@@ -5,3 +5,6 @@ src/estimate_capacity
 src/dump_table
 src/lookup_accession_numbers
 src/k2mask
+database
+install
+working
